@@ -35,3 +35,5 @@ Your contributions are welcome to help make election dashboards more user-friend
 ## Keywords
 
 Election Results, Dashboard Design, Usability, User Experience, Data Visualization
+
+"C:\Users\sanja\OneDrive\Desktop\CASE STUDY\CASE STUDY.pdf"
